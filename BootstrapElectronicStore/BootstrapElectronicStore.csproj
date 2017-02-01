@@ -51,6 +51,10 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Images\Desktop.jpg" />
+    <Content Include="Images\Gear.jpg" />
+    <Content Include="Images\Laptop.jpg" />
+    <Content Include="Images\Peripherals.jpg" />
     <Content Include="ItemDetail.html" />
     <Content Include="ItemList.html" />
     <Content Include="Scripts\bootstrap.js" />
@@ -58,7 +62,9 @@
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="CSS\style.css" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

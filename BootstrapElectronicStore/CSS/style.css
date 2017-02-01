@@ -1,0 +1,19 @@
+﻿body
+{
+    background: linear-gradient(#808080, #ff0000);
+}
+
+#footer
+{
+    background-color: darkgray;
+}
+
+#footer h3
+{
+    padding-left: 10px;
+}
+
+.footer-end
+{
+    background-color: whitesmoke;
+}
